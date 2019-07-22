@@ -1,0 +1,25 @@
+{
+  "name": "@nit90esh/distance",
+  "version": "1.0.0",
+  "description": "filter users in file from those are within given distance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/nitesh-kumar-gupta/distance.git"
+  },
+  "keywords": [
+    "distance"
+  ],
+  "author": {
+    "name": "Nitesh Kumar Gupta",
+    "email": "nit90esh@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitesh-kumar-gupta/distance/issues"
+  },
+  "homepage": "https://github.com/nitesh-kumar-gupta/distance#readme"
+}
